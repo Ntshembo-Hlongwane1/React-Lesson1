@@ -1,0 +1,25 @@
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-logo{
+  margin-left: 2rem
+}
+
+.nav-logo-second{
+  color: #fed700
+}
+
+.nav-links{
+  display: flex;
+  align-items: center;
+}
+
+.nav-link{
+  list-style: none;
+  margin-right: 2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
